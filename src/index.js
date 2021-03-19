@@ -10,6 +10,8 @@ app.use(express.json());
 
 // const users = [];
 
+// Iniciar o projeto 
+
 function checksExistsUserAccount(request, response, next) {
   // Complete aqui
 }
